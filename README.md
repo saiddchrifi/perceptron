@@ -1,6 +1,6 @@
-# 🧠 Perzeptron – AND Logik
+#  Perzeptron – AND Logik
 
-## 📌 Projektbeschreibung
+##  Projektbeschreibung
 
 Dieses Projekt ist eine einfache Implementation von einem Perzeptron in JavaScript.  
 Das Perzeptron lernt die AND-Logik mit zwei Eingaben (x1 und x2).
@@ -9,7 +9,7 @@ Nach dem Training kann das Modell die richtige Ausgabe für die AND-Funktion ber
 
 ---
 
-## ⚙️ Wie funktioniert das Modell?
+##  Wie funktioniert das Modell?
 
 Das Perzeptron benutzt diese mathematische Formel:
 
@@ -26,14 +26,14 @@ Die Gewichte und der Bias werden mit einem Fehler-Wert angepasst.
 
 ---
 
-## 🛠️ Technologien
+##  Technologien
 
 - JavaScript (ES6)
 - Konsole (console.log)
 
 ---
 
-## 🎯 Trainingsdaten (AND-Logik)
+##  Trainingsdaten (AND-Logik)
 
 | x1 | x2 | Ausgabe |
 |----|----|----------|
